@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter.messagebox import showinfo
-import tkinter.font as font
 from itertools import permutations
 
 x=2
